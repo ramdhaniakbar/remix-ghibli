@@ -1,0 +1,52 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "name": "Kaler",
+      "message": "yooo so good!!",
+      "filmId": "12cfb892-aac0-4c5b-94af-521852e46d6a"
+    },
+    {
+      "id": 2,
+      "name": "Kaler",
+      "message": "some comment",
+      "filmId": "12cfb892-aac0-4c5b-94af-521852e46d6a"
+    },
+    {
+      "name": "Akbar",
+      "message": "So cool!!",
+      "filmId": "2baf70d1-42bb-4437-b551-e5fed5a87abe",
+      "id": 3
+    },
+    {
+      "name": "Udin",
+      "message": "This film is trash",
+      "filmId": "790e0028-a31c-4626-a694-86b7a8cada40",
+      "id": 6
+    },
+    {
+      "name": "Gonalu",
+      "message": "This film so underrated",
+      "filmId": "2baf70d1-42bb-4437-b551-e5fed5a87abe",
+      "id": 7
+    },
+    {
+      "name": "Asep",
+      "message": "I am waiting for next story",
+      "filmId": "2baf70d1-42bb-4437-b551-e5fed5a87abe",
+      "id": 8
+    },
+    {
+      "name": "Haerin",
+      "message": "This film very recommended",
+      "filmId": "2baf70d1-42bb-4437-b551-e5fed5a87abe",
+      "id": 9
+    },
+    {
+      "name": "Udin",
+      "message": "You must watch this film",
+      "filmId": "2baf70d1-42bb-4437-b551-e5fed5a87abe",
+      "id": 10
+    }
+  ]
+}
